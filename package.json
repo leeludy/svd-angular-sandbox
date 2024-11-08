@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@angular/cli": "^18.2.11",
+    "@loopback/cli": "^6.1.1",
+    "eslint": "^9.14.0"
+  }
+}
